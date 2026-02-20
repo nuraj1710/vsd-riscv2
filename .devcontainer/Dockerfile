@@ -50,7 +50,7 @@ WORKDIR /tmp
 RUN set -eux; \
     CROSS_PATH="/opt/riscv/bin:/opt/riscv/riscv64-unknown-elf/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"; \
     git clone https://github.com/riscv-software-src/riscv-pk.git; \
-    cd riscv-pk;  \
+    cd riscv-pk; git checkout v1.0.0; \
     mkdir -p build && cd build; \
     PATH="$CROSS_PATH" \
     CC=riscv64-unknown-elf-gcc CXX=riscv64-unknown-elf-g++ \
