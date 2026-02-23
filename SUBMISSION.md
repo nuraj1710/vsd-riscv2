@@ -1,4 +1,3 @@
-![0](https://github.com/user-attachments/assets/13190e7e-325e-41b1-81a1-cc735cbe8298)
 # Task-1: Environment Setup & RISC-V Reference Bring-Up — Submission
 
 ## Environment Used
@@ -46,13 +45,17 @@ bbl loader
 Sum from 1 to 9 is 45
 ```
 
-### Screenshots![5](https://github.com/user-attachments/assets/0369c96d-af44-42b2-a3cb-da58b97b74b3)
+### **Screenshots** : 
 :
 > 📸 **
 ![0](https://github.com/user-attachments/assets/a61ee07b-83b7-4658-ab64-cd2ad92891bc)
+
 ![1](https://github.com/user-attachments/assets/54eb65cb-9f58-49b0-8f1c-867771063c13)
+
 ![2](https://github.com/user-attachments/assets/bfbb99ab-f216-45c1-ad34-daeb7e2ff0a1)
+
 ![3](https://github.com/user-attachments/assets/f031c807-701d-4a43-a0ae-07833dd5f403)
+
 ![4](https://github.com/user-attachments/assets/a0f6b34a-a0d9-4e1c-82d3-56ff6826fd47)
 
 RISC-V program compiled and ran successfully using Spike simulator.
@@ -85,7 +88,7 @@ The RISC-V programs are located in the `samples/` folder of the repository. The 
 
 ### Q2. How is the program compiled and loaded into memory?
 
-The program is compiled using `riscv64-unknown-elf-gcc`, which is a cross-compiler that converts C source code into a RISC-V 64-bit ELF binary. The compiled binary is then loaded into memory by the **Spike RISC-V ISA simulator** using the **proxy kernel (`pk`)**, which acts as a minimal operating system — it sets up the memory layout and loads the ELF binary before handing execution to the RISC-V core.
+The program is compiled using `riscv64-unknown-elf-gcc`, which is a cross-compiler that converts C source code into a RISC-V 64-bit ELF binary. The compiled binary is then loaded into memory by the **Spike RISC-V ISA simulator** using the **proxy kernel (`pk`)**, which acts as a minimal operating system, it sets up the memory layout and loads the ELF binary before handing execution to the RISC-V core.
 
 ---
 
@@ -114,8 +117,6 @@ spike pk sum1ton.o
 ```
 Sum from 1 to 15 is 120
 ```
-
-> 📸 **[Insert screenshot of changed output]**
 
 Successfully modified, rebuilt, and observed the updated output.
 
