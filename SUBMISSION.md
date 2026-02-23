@@ -47,7 +47,8 @@ Sum from 1 to 9 is 45
 
 ### Screenshots![5](https://github.com/user-attachments/assets/0369c96d-af44-42b2-a3cb-da58b97b74b3)
 :
-> 📸 **![0](https://github.com/user-attachments/assets/de080135-07bb-4aaf-a825-b8b795b1a077)**
+> 📸 **
+![0](https://github.com/user-attachments/assets/de080135-07bb-4aaf-a825-b8b795b1a077)
 [1](https://github.com/user-attachments/assets/54eb65cb-9f58-49b0-8f1c-867771063c13)
 ![2](https://github.com/user-attachments/assets/bfbb99ab-f216-45c1-ad34-daeb7e2ff0a1)
 ![3](https://github.com/user-attachments/assets/f031c807-701d-4a43-a0ae-07833dd5f403)
