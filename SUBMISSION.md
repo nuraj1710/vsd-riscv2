@@ -1,3 +1,4 @@
+![0](https://github.com/user-attachments/assets/13190e7e-325e-41b1-81a1-cc735cbe8298)
 # Task-1: Environment Setup & RISC-V Reference Bring-Up — Submission
 
 ## Environment Used
@@ -48,8 +49,8 @@ Sum from 1 to 9 is 45
 ### Screenshots![5](https://github.com/user-attachments/assets/0369c96d-af44-42b2-a3cb-da58b97b74b3)
 :
 > 📸 **
-![0](https://github.com/user-attachments/assets/de080135-07bb-4aaf-a825-b8b795b1a077)
-[1](https://github.com/user-attachments/assets/54eb65cb-9f58-49b0-8f1c-867771063c13)
+![0](https://github.com/user-attachments/assets/a61ee07b-83b7-4658-ab64-cd2ad92891bc)
+![1](https://github.com/user-attachments/assets/54eb65cb-9f58-49b0-8f1c-867771063c13)
 ![2](https://github.com/user-attachments/assets/bfbb99ab-f216-45c1-ad34-daeb7e2ff0a1)
 ![3](https://github.com/user-attachments/assets/f031c807-701d-4a43-a0ae-07833dd5f403)
 ![4](https://github.com/user-attachments/assets/a0f6b34a-a0d9-4e1c-82d3-56ff6826fd47)
@@ -121,6 +122,7 @@ Successfully modified, rebuilt, and observed the updated output.
 ---
 
 ## Summary!
+
 
 
 
